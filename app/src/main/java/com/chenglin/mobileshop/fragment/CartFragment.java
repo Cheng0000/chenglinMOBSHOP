@@ -1,0 +1,1 @@
+package com.chenglin.mobileshop.fragment;import android.support.v4.app.Fragment;import com.chenglin.mobileshop.R;import com.chenglin.mobileshop.common.BaseFragment;/** * A simple {@link Fragment} subclass. */public class CartFragment extends BaseFragment {    @Override    public int getContentId() {        return R.layout.fragment_cart;    }}
